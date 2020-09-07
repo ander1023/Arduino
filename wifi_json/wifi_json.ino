@@ -1,8 +1,8 @@
 #include <ESP8266HTTPClient.h>
 #include <ESP8266WiFi.h>
 
-#define ssid "Xiaomi_cmcc"
-#define psd "xiaomi991212"
+#define ssid "id"
+#define psd "psd"
 #define api "https://v1.hitokoto.cn/?encode=text"
 #define a "http://quan.suning.com/getSysTime.do"
 void setup() {
